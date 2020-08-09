@@ -1,4 +1,4 @@
-# Quick Pics. 🔍 📸
+# Quick Pics 🔍 📸
 
 A basic script that downloads images from Google, based on a search term.
 
