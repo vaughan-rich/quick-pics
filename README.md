@@ -2,6 +2,8 @@
 
 A basic script that downloads images from Google, based on a search term.
 
+![Demo](demo.gif)
+
 ## Usage:
 
 * Install [Selenium WebDriver for Python](https://selenium-python.readthedocs.io/installation.html)
